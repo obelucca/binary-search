@@ -1,0 +1,15 @@
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.csproj.AssemblyReference.cache
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.AssemblyInfoInputs.cache
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.AssemblyInfo.cs
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.csproj.CoreCompileInputs.cache
+C:\Users\beluc\binary_consult\bin\Debug\net7.0\binary_consult.exe
+C:\Users\beluc\binary_consult\bin\Debug\net7.0\binary_consult.deps.json
+C:\Users\beluc\binary_consult\bin\Debug\net7.0\binary_consult.runtimeconfig.json
+C:\Users\beluc\binary_consult\bin\Debug\net7.0\binary_consult.dll
+C:\Users\beluc\binary_consult\bin\Debug\net7.0\binary_consult.pdb
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.dll
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\refint\binary_consult.dll
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.pdb
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\binary_consult.genruntimeconfig.cache
+C:\Users\beluc\binary_consult\obj\Debug\net7.0\ref\binary_consult.dll
